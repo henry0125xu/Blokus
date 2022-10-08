@@ -1,0 +1,3 @@
+1 = R ^ pattern12() ^ 5-5
+2 = B ^ pattern17() ^ 8-9
+3 = R ^ pattern19() ^ 3-1

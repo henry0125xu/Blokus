@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1587128451 source:c:\users\dzz\desktop\blokus\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<conio.h>
+	<pthread.h>
+	<semaphore.h>
+	<windows.h>
+	<mmsystem.h>
+	"blokush.h"
+
+1586095100 c:\users\dzz\desktop\blokus\block.h
+	<stdlib.h>
+
+1587007433 c:\users\dzz\desktop\blokus\blokush.h
+
+1587008111 source:c:\users\dzz\desktop\blokus\resource.rc
+

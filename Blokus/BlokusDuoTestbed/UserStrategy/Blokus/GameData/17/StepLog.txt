@@ -1,0 +1,2 @@
+1 = R ^ pattern16() ^ 5-5
+2 = B ^ pattern18(R,R) ^ 9-7

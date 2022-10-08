@@ -1,0 +1,13 @@
+1 = R ^ pattern20() ^ 5-5
+2 = B ^ pattern18(R,R) ^ 9-7
+3 = R ^ pattern12() ^ 4-9
+4 = B ^ pattern11(R) ^ 11-5
+5 = R ^ pattern18(R) ^ 3-12
+6 = B ^ pattern19() ^ 11-1
+7 = R ^ pattern15(H) ^ 7-5
+8 = B ^ pattern14() ^ 7-10
+9 = R ^ pattern19() ^ 3-1
+10 = B ^ pattern10(R) ^ 8-3
+11 = R ^ pattern02() ^ 5-1
+12 = B ^ pattern03(R) ^ 5-8
+13 = R ^ pattern11(R,R) ^ 1-9

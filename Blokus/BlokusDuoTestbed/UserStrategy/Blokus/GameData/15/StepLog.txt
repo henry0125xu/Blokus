@@ -1,0 +1,7 @@
+1 = R ^ Pass
+2 = B ^ pattern13(R,R) ^ 3-3
+3 = B ^ pattern17() ^ 1-2
+4 = B ^ pattern12(R,R) ^ 4-6
+5 = B ^ pattern20(H,R,R,R) ^ 3-9
+6 = B ^ pattern16(H) ^ 7-4
+7 = B ^ pattern14(R,R,R) ^ 9-6

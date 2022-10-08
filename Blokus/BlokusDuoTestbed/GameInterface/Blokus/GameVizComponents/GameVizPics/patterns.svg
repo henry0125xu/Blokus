@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.46"
+   sodipodi:docname="patterns.svg"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="293.00827"
+     inkscape:cy="881.07196"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1654"
+     inkscape:window-height="788"
+     inkscape:window-x="26"
+     inkscape:window-y="224"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3598"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3612"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3628"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3628-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3697" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3731" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3755" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3755-1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3755-3" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3755-6" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3755-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3901" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3901-8" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3901-4" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4249" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4249-2" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4430" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4430-8" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4776" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3812">
+      <rect
+         y="116.36497"
+         x="244.81586"
+         height="8.5"
+         width="8.5"
+         id="rect3002"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="116.36497"
+         x="253.46231"
+         height="8.5"
+         width="8.5"
+         id="rect3774"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3782"
+       width="8.5"
+       height="8.5"
+       x="228.01035"
+       y="116.52197"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3821">
+      <rect
+         y="116.28046"
+         x="304.7467"
+         height="8.5"
+         width="8.5"
+         id="rect3778"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="116.28046"
+         x="295.90094"
+         height="8.5"
+         width="8.5"
+         id="rect3780"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="116.28046"
+         x="313.625"
+         height="8.5"
+         width="8.5"
+         id="rect3788"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3816">
+      <rect
+         y="116.28368"
+         x="270.95453"
+         height="8.5"
+         width="8.5"
+         id="rect3797"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="116.28368"
+         x="279.60098"
+         height="8.5"
+         width="8.5"
+         id="rect3799"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="124.69069"
+         x="279.64902"
+         height="8.5"
+         width="8.5"
+         id="rect3801"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3826">
+      <rect
+         y="125.00138"
+         x="329.21713"
+         height="8.5"
+         width="8.5"
+         id="rect3811"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="125.00138"
+         x="337.86359"
+         height="8.5"
+         width="8.5"
+         id="rect3813"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="116.37638"
+         x="329.21713"
+         height="8.5"
+         width="8.5"
+         id="rect3817"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="116.37638"
+         x="337.86359"
+         height="8.5"
+         width="8.5"
+         id="rect3819"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3832">
+      <rect
+         y="125.45858"
+         x="357.0542"
+         height="8.5"
+         width="8.5"
+         id="rect3829"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="116.7318"
+         x="365.89996"
+         height="8.5"
+         width="8.5"
+         id="rect3833"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="116.7318"
+         x="357.0542"
+         height="8.5"
+         width="8.5"
+         id="rect3835"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="116.7318"
+         x="374.77826"
+         height="8.5"
+         width="8.5"
+         id="rect3837"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3838">
+      <rect
+         y="125.45859"
+         x="403.39703"
+         height="8.5"
+         width="8.5"
+         id="rect3858"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="116.7318"
+         x="403.3808"
+         height="8.5"
+         width="8.5"
+         id="rect3862"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="116.7318"
+         x="394.53503"
+         height="8.5"
+         width="8.5"
+         id="rect3864"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="116.7318"
+         x="412.25909"
+         height="8.5"
+         width="8.5"
+         id="rect3866"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3844">
+      <rect
+         y="154.04552"
+         x="220.39764"
+         height="8.5"
+         width="8.5"
+         id="rect3884"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="154.04552"
+         x="229.0441"
+         height="8.5"
+         width="8.5"
+         id="rect3886"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="145.42052"
+         x="211.69054"
+         height="8.5"
+         width="8.5"
+         id="rect3890"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="145.42052"
+         x="220.33699"
+         height="8.5"
+         width="8.5"
+         id="rect3892"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3857">
+      <rect
+         y="150.97046"
+         x="244.92456"
+         height="8.5"
+         width="8.5"
+         id="rect3910"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="150.97046"
+         x="253.57101"
+         height="8.5"
+         width="8.5"
+         id="rect3912"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="150.97046"
+         x="262.42545"
+         height="8.5"
+         width="8.5"
+         id="rect3916"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="150.97046"
+         x="271.0719"
+         height="8.5"
+         width="8.5"
+         id="rect3918"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3870">
+      <rect
+         y="160.65443"
+         x="290.43051"
+         height="8.5"
+         width="8.5"
+         id="rect3937"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="160.65443"
+         x="299.07697"
+         height="8.5"
+         width="8.5"
+         id="rect3939"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="152.06993"
+         x="299.27628"
+         height="8.5"
+         width="8.5"
+         id="rect3943"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="152.06993"
+         x="290.43051"
+         height="8.5"
+         width="8.5"
+         id="rect3945"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="152.06993"
+         x="308.15457"
+         height="8.5"
+         width="8.5"
+         id="rect3947"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3884">
+      <rect
+         y="160.47557"
+         x="327.13797"
+         height="8.5"
+         width="8.5"
+         id="rect3961"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="151.74878"
+         x="335.98373"
+         height="8.5"
+         width="8.5"
+         id="rect3965"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="151.74878"
+         x="327.13797"
+         height="8.5"
+         width="8.5"
+         id="rect3967"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="151.74878"
+         x="344.86203"
+         height="8.5"
+         width="8.5"
+         id="rect3969"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="160.47557"
+         x="344.86203"
+         height="8.5"
+         width="8.5"
+         id="rect3971"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3891">
+      <rect
+         y="160.97557"
+         x="369.25"
+         height="8.5"
+         width="8.5"
+         id="rect3984"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="152.24879"
+         x="369.23373"
+         height="8.5"
+         width="8.5"
+         id="rect3988"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="152.24879"
+         x="360.38797"
+         height="8.5"
+         width="8.5"
+         id="rect3990"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="152.24879"
+         x="378.11203"
+         height="8.5"
+         width="8.5"
+         id="rect3992"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="169.11218"
+         x="369.25"
+         height="8.5"
+         width="8.5"
+         id="rect3994"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3898">
+      <rect
+         y="160.65727"
+         x="393.63797"
+         height="8.5"
+         width="8.5"
+         id="rect4009"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="151.93048"
+         x="402.48373"
+         height="8.5"
+         width="8.5"
+         id="rect4013"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="151.93048"
+         x="393.63797"
+         height="8.5"
+         width="8.5"
+         id="rect4015"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="151.93048"
+         x="411.36203"
+         height="8.5"
+         width="8.5"
+         id="rect4017"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="168.79388"
+         x="393.63797"
+         height="8.5"
+         width="8.5"
+         id="rect4019"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3926">
+      <rect
+         y="161.17468"
+         x="445.85355"
+         height="8.5"
+         width="8.5"
+         id="rect4045"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="161.17468"
+         x="454.5"
+         height="8.5"
+         width="8.5"
+         id="rect4047"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="152.54968"
+         x="437.14645"
+         height="8.5"
+         width="8.5"
+         id="rect4051"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="152.54968"
+         x="445.79291"
+         height="8.5"
+         width="8.5"
+         id="rect4053"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="169.61218"
+         x="454.5"
+         height="8.5"
+         width="8.5"
+         id="rect4055"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3863">
+      <rect
+         transform="scale(1,-1)"
+         y="-191.49879"
+         x="249.63797"
+         height="8.5"
+         width="8.5"
+         id="rect4069"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="scale(1,-1)"
+         y="-200.22559"
+         x="258.48373"
+         height="8.5"
+         width="8.5"
+         id="rect4073"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="scale(1,-1)"
+         y="-200.22559"
+         x="249.63797"
+         height="8.5"
+         width="8.5"
+         id="rect4075"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="scale(1,-1)"
+         y="-200.22559"
+         x="267.36203"
+         height="8.5"
+         width="8.5"
+         id="rect4077"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="200.11218"
+         x="258.5"
+         height="8.5"
+         width="8.5"
+         id="rect4079"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3877">
+      <rect
+         transform="scale(1,-1)"
+         y="-191.5555"
+         x="298.25"
+         height="8.5"
+         width="8.5"
+         id="rect4094"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="scale(1,-1)"
+         y="-200.28229"
+         x="298.23373"
+         height="8.5"
+         width="8.5"
+         id="rect4098"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="scale(1,-1)"
+         y="-200.28229"
+         x="289.38797"
+         height="8.5"
+         width="8.5"
+         id="rect4100"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="scale(1,-1)"
+         y="-200.28229"
+         x="307.11203"
+         height="8.5"
+         width="8.5"
+         id="rect4102"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="200.16888"
+         x="298.25"
+         height="8.5"
+         width="8.5"
+         id="rect4104"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3850">
+      <rect
+         transform="scale(-1,1)"
+         y="198.47557"
+         x="-238.61203"
+         height="8.5"
+         width="8.5"
+         id="rect4128"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="scale(-1,1)"
+         y="189.74878"
+         x="-229.76627"
+         height="8.5"
+         width="8.5"
+         id="rect4132"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="scale(-1,1)"
+         y="189.74878"
+         x="-238.61203"
+         height="8.5"
+         width="8.5"
+         id="rect4134"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="scale(-1,1)"
+         y="189.74878"
+         x="-220.88797"
+         height="8.5"
+         width="8.5"
+         id="rect4136"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="181.03896"
+         x="212.38797"
+         height="8.5"
+         width="8.5"
+         id="rect4138"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3905">
+      <rect
+         y="198.17911"
+         x="325.23856"
+         height="8.5"
+         width="8.5"
+         id="rect4151"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="189.45232"
+         x="334.08432"
+         height="8.5"
+         width="8.5"
+         id="rect4155"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="189.45232"
+         x="325.23856"
+         height="8.5"
+         width="8.5"
+         id="rect4157"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="189.45232"
+         x="342.96262"
+         height="8.5"
+         width="8.5"
+         id="rect4159"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="189.45232"
+         x="351.83374"
+         height="8.5"
+         width="8.5"
+         id="rect4161"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3912">
+      <rect
+         transform="scale(-1,1)"
+         y="197.99304"
+         x="-396.18713"
+         height="8.5"
+         width="8.5"
+         id="rect4174"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="scale(-1,1)"
+         y="189.26627"
+         x="-387.34137"
+         height="8.5"
+         width="8.5"
+         id="rect4178"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="scale(-1,1)"
+         y="189.26627"
+         x="-396.18713"
+         height="8.5"
+         width="8.5"
+         id="rect4180"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="scale(-1,1)"
+         y="189.26627"
+         x="-378.46307"
+         height="8.5"
+         width="8.5"
+         id="rect4182"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="197.99304"
+         x="396.32599"
+         height="8.5"
+         width="8.5"
+         id="rect4184"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3919">
+      <rect
+         y="197.93703"
+         x="418.13071"
+         height="8.5"
+         width="8.5"
+         id="rect4199"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="189.21024"
+         x="418.39069"
+         height="8.5"
+         width="8.5"
+         id="rect4203"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="189.21024"
+         x="409.54492"
+         height="8.5"
+         width="8.5"
+         id="rect4205"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="189.21024"
+         x="427.26898"
+         height="8.5"
+         width="8.5"
+         id="rect4207"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="189.21024"
+         x="436.14008"
+         height="8.5"
+         width="8.5"
+         id="rect4209"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3933">
+      <rect
+         y="189.34142"
+         x="485.12906"
+         height="8.5"
+         width="8.5"
+         id="rect4233"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="189.34142"
+         x="458.69577"
+         height="8.5"
+         width="8.5"
+         id="rect4237"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="189.34142"
+         x="449.85001"
+         height="8.5"
+         width="8.5"
+         id="rect4239"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="189.34142"
+         x="467.57407"
+         height="8.5"
+         width="8.5"
+         id="rect4241"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="189.34142"
+         x="476.44516"
+         height="8.5"
+         width="8.5"
+         id="rect4243"
+         style="fill:#a00000;fill-opacity:1;stroke:#320000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2540"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(5.8433423,127.6264)">
+      <g
+         transform="translate(4.065864,-19.622213)"
+         id="g2542">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2544"
+           width="8.5"
+           height="8.5"
+           x="240.75"
+           y="135.98718" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2546"
+           width="8.5"
+           height="8.5"
+           x="249.39645"
+           y="135.98718" />
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2548"
+       width="8.5"
+       height="8.5"
+       x="233.85368"
+       y="244.14836"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2550"
+       transform="translate(73.718342,97.501396)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="146.40546"
+         x="236.8717"
+         height="8.5"
+         width="8.5"
+         id="rect2552"
+         style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="146.40546"
+         x="228.02594"
+         height="8.5"
+         width="8.5"
+         id="rect2554"
+         style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="146.40546"
+         x="245.75"
+         height="8.5"
+         width="8.5"
+         id="rect2556"
+         style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2558"
+       transform="translate(22.718342,98.626396)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(13.329533,9.2964975)"
+         id="g2560">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2562"
+           width="8.5"
+           height="8.5"
+           x="240.75"
+           y="135.98718" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2564"
+           width="8.5"
+           height="8.5"
+           x="249.39645"
+           y="135.98718" />
+      </g>
+      <rect
+         y="153.69069"
+         x="262.77402"
+         height="8.5"
+         width="8.5"
+         id="rect2566"
+         style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2568"
+       transform="translate(54.63371,59.390596)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(39.676773,57.249999)"
+         id="g2570">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2572"
+           width="8.5"
+           height="8.5"
+           x="240.75"
+           y="135.98718" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2574"
+           width="8.5"
+           height="8.5"
+           x="249.39645"
+           y="135.98718" />
+      </g>
+      <g
+         transform="translate(39.676773,48.624999)"
+         id="g2576">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2578"
+           width="8.5"
+           height="8.5"
+           x="240.75"
+           y="135.98718" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2580"
+           width="8.5"
+           height="8.5"
+           x="249.39645"
+           y="135.98718" />
+      </g>
+    </g>
+    <g
+       id="g2582"
+       transform="translate(74.786253,61.158356)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="191.92662"
+         x="288.1113"
+         height="8.5"
+         width="8.5"
+         id="rect2584"
+         style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(60.085358,36.794374)"
+         id="g2586">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2588"
+           width="8.5"
+           height="8.5"
+           x="236.8717"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2590"
+           width="8.5"
+           height="8.5"
+           x="228.02594"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2592"
+           width="8.5"
+           height="8.5"
+           x="245.75"
+           y="146.40546" />
+      </g>
+    </g>
+    <g
+       id="g2594"
+       transform="translate(24.228118,88.028416)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="165.05656"
+         x="385.01227"
+         height="8.5"
+         width="8.5"
+         id="rect2596"
+         style="fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(148.12431,9.92432)"
+         id="g2598">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2600"
+           width="8.5"
+           height="8.5"
+           x="236.8717"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2602"
+           width="8.5"
+           height="8.5"
+           x="228.02594"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2604"
+           width="8.5"
+           height="8.5"
+           x="245.75"
+           y="146.40546" />
+      </g>
+    </g>
+    <g
+       id="g2606"
+       transform="translate(-115.42547,109.94873)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue8png.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(100.91646,35.736003)"
+         id="g2608">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2610"
+           width="8.5"
+           height="8.5"
+           x="240.75"
+           y="135.98718" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2612"
+           width="8.5"
+           height="8.5"
+           x="249.39645"
+           y="135.98718" />
+      </g>
+      <g
+         transform="translate(92.209349,27.111003)"
+         id="g2614">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2616"
+           width="8.5"
+           height="8.5"
+           x="240.75"
+           y="135.98718" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2618"
+           width="8.5"
+           height="8.5"
+           x="249.39645"
+           y="135.98718" />
+      </g>
+    </g>
+    <g
+       id="g2620"
+       transform="translate(2.3078083,123.91409)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue9.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(7.7100882,18.695581)"
+         id="g2622">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2624"
+           width="8.5"
+           height="8.5"
+           x="240.75"
+           y="135.98718" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2626"
+           width="8.5"
+           height="8.5"
+           x="249.39645"
+           y="135.98718" />
+      </g>
+      <g
+         transform="translate(25.210981,18.695581)"
+         id="g2628">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2630"
+           width="8.5"
+           height="8.5"
+           x="240.75"
+           y="135.98718" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2632"
+           width="8.5"
+           height="8.5"
+           x="249.39645"
+           y="135.98718" />
+      </g>
+    </g>
+    <g
+       id="g2634"
+       transform="translate(5.3433423,78.626396)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(46.114644,93.289469)"
+         id="g2636">
+        <g
+           id="g2638"
+           transform="translate(4.065864,-19.622213)">
+          <rect
+             y="135.98718"
+             x="240.75"
+             height="8.5"
+             width="8.5"
+             id="rect2640"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="135.98718"
+             x="249.39645"
+             height="8.5"
+             width="8.5"
+             id="rect2642"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         transform="translate(62.904568,54.664469)"
+         id="g2644">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2646"
+           width="8.5"
+           height="8.5"
+           x="236.8717"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2648"
+           width="8.5"
+           height="8.5"
+           x="228.02594"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2650"
+           width="8.5"
+           height="8.5"
+           x="245.75"
+           y="146.40546" />
+      </g>
+    </g>
+    <g
+       id="g2652"
+       transform="translate(5.8433423,129.6264)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue11.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(39.026673,-33.451044)"
+         id="g2654">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2656"
+           width="8.5"
+           height="8.5"
+           x="288.1113"
+           y="191.92662" />
+        <g
+           id="g2658"
+           transform="translate(60.085358,36.794374)">
+          <rect
+             y="146.40546"
+             x="236.8717"
+             height="8.5"
+             width="8.5"
+             id="rect2660"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="146.40546"
+             x="228.02594"
+             height="8.5"
+             width="8.5"
+             id="rect2662"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="146.40546"
+             x="245.75"
+             height="8.5"
+             width="8.5"
+             id="rect2664"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <rect
+         y="158.47557"
+         x="344.86203"
+         height="8.5"
+         width="8.5"
+         id="rect2666"
+         style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2668"
+       transform="translate(5.8433423,133.6264)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-15.76228,-10.080989)"
+         id="g2670">
+        <rect
+           style="fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2672"
+           width="8.5"
+           height="8.5"
+           x="385.01227"
+           y="165.05656" />
+        <g
+           id="g2674"
+           transform="translate(148.12431,9.92432)">
+          <rect
+             y="146.40546"
+             x="236.8717"
+             height="8.5"
+             width="8.5"
+             id="rect2676"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="146.40546"
+             x="228.02594"
+             height="8.5"
+             width="8.5"
+             id="rect2678"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="146.40546"
+             x="245.75"
+             height="8.5"
+             width="8.5"
+             id="rect2680"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <rect
+         y="163.11218"
+         x="369.25"
+         height="8.5"
+         width="8.5"
+         id="rect2682"
+         style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2684"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue13png.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(5.8433423,127.6264)">
+      <rect
+         y="160.65727"
+         x="393.63797"
+         height="8.5"
+         width="8.5"
+         id="rect2686"
+         style="fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(165.61203,5.5250276)"
+         id="g2688">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2690"
+           width="8.5"
+           height="8.5"
+           x="236.8717"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2692"
+           width="8.5"
+           height="8.5"
+           x="228.02594"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2694"
+           width="8.5"
+           height="8.5"
+           x="245.75"
+           y="146.40546" />
+      </g>
+      <rect
+         y="168.79388"
+         x="393.63797"
+         height="8.5"
+         width="8.5"
+         id="rect2696"
+         style="fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2698"
+       transform="translate(5.8433423,131.6264)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(104.18709,-14.548504)"
+         id="g2700">
+        <g
+           id="g2702"
+           transform="translate(100.91646,35.736003)">
+          <rect
+             y="135.98718"
+             x="240.75"
+             height="8.5"
+             width="8.5"
+             id="rect2704"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="135.98718"
+             x="249.39645"
+             height="8.5"
+             width="8.5"
+             id="rect2706"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <g
+           id="g2708"
+           transform="translate(92.209349,27.111003)">
+          <rect
+             y="135.98718"
+             x="240.75"
+             height="8.5"
+             width="8.5"
+             id="rect2710"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="135.98718"
+             x="249.39645"
+             height="8.5"
+             width="8.5"
+             id="rect2712"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <rect
+         y="165.61218"
+         x="454.5"
+         height="8.5"
+         width="8.5"
+         id="rect2714"
+         style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2716"
+       transform="translate(41.843342,129.6264)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue16.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(1,0,0,-1,-74.473328,381.42541)"
+         id="g2718">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2720"
+           width="8.5"
+           height="8.5"
+           x="288.1113"
+           y="191.92662" />
+        <g
+           id="g2722"
+           transform="translate(60.085358,36.794374)">
+          <rect
+             y="146.40546"
+             x="236.8717"
+             height="8.5"
+             width="8.5"
+             id="rect2724"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="146.40546"
+             x="228.02594"
+             height="8.5"
+             width="8.5"
+             id="rect2726"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="146.40546"
+             x="245.75"
+             height="8.5"
+             width="8.5"
+             id="rect2728"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <rect
+         y="198.11218"
+         x="222.5"
+         height="8.5"
+         width="8.5"
+         id="rect2730"
+         style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2732"
+       transform="translate(45.843342,135.6264)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue17png.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         transform="scale(1,-1)"
+         y="-183.5555"
+         x="258.25"
+         height="8.5"
+         width="8.5"
+         id="rect2734"
+         style="fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="matrix(1,0,0,-1,21.36203,338.68774)"
+         id="g2736">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2738"
+           width="8.5"
+           height="8.5"
+           x="236.8717"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2740"
+           width="8.5"
+           height="8.5"
+           x="228.02594"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2742"
+           width="8.5"
+           height="8.5"
+           x="245.75"
+           y="146.40546" />
+      </g>
+      <rect
+         y="192.16888"
+         x="258.25"
+         height="8.5"
+         width="8.5"
+         id="rect2744"
+         style="fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2746"
+       transform="translate(41.843342,135.6264)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue15.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(-1,0,0,1,490.72333,-1.4510438)"
+         id="g2748">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2750"
+           width="8.5"
+           height="8.5"
+           x="288.1113"
+           y="191.92662" />
+        <g
+           id="g2752"
+           transform="translate(60.085358,36.794374)">
+          <rect
+             y="146.40546"
+             x="236.8717"
+             height="8.5"
+             width="8.5"
+             id="rect2754"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="146.40546"
+             x="228.02594"
+             height="8.5"
+             width="8.5"
+             id="rect2756"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="146.40546"
+             x="245.75"
+             height="8.5"
+             width="8.5"
+             id="rect2758"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <rect
+         y="173.03896"
+         x="176.38797"
+         height="8.5"
+         width="8.5"
+         id="rect2760"
+         style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2762"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue18.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(5.8433423,127.6264)">
+      <g
+         transform="translate(37.127267,6.2524857)"
+         id="g2764">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2766"
+           width="8.5"
+           height="8.5"
+           x="288.1113"
+           y="191.92662" />
+        <g
+           id="g2768"
+           transform="translate(60.085358,36.794374)">
+          <rect
+             y="146.40546"
+             x="236.8717"
+             height="8.5"
+             width="8.5"
+             id="rect2770"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="146.40546"
+             x="228.02594"
+             height="8.5"
+             width="8.5"
+             id="rect2772"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="146.40546"
+             x="245.75"
+             height="8.5"
+             width="8.5"
+             id="rect2774"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <rect
+         y="189.45232"
+         x="351.83374"
+         height="8.5"
+         width="8.5"
+         id="rect2776"
+         style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2778"
+       transform="translate(3.5452453,124.26764)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue19.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(-1,0,0,1,686.59652,9.4251862)"
+         id="g2780">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2782"
+           width="8.5"
+           height="8.5"
+           x="288.1113"
+           y="191.92662" />
+        <g
+           id="g2784"
+           transform="translate(60.085358,36.794374)">
+          <rect
+             y="146.40546"
+             x="236.8717"
+             height="8.5"
+             width="8.5"
+             id="rect2786"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="146.40546"
+             x="228.02594"
+             height="8.5"
+             width="8.5"
+             id="rect2788"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="146.40546"
+             x="245.75"
+             height="8.5"
+             width="8.5"
+             id="rect2790"
+             style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <rect
+         y="201.35181"
+         x="398.62408"
+         height="8.5"
+         width="8.5"
+         id="rect2792"
+         style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2794"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue20.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(5.8433423,127.6264)">
+      <rect
+         y="197.93703"
+         x="418.13071"
+         height="8.5"
+         width="8.5"
+         id="rect2796"
+         style="fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(181.51897,42.804785)"
+         id="g2798">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2800"
+           width="8.5"
+           height="8.5"
+           x="236.8717"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2802"
+           width="8.5"
+           height="8.5"
+           x="228.02594"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2804"
+           width="8.5"
+           height="8.5"
+           x="245.75"
+           y="146.40546" />
+      </g>
+      <rect
+         y="189.21024"
+         x="436.14008"
+         height="8.5"
+         width="8.5"
+         id="rect2806"
+         style="fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2808"
+       transform="translate(5.8433423,121.6264)"
+       inkscape:export-filename="D:\Research\TA\IntroCS 2010 Spring\Project\pattern_img\blue21.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="195.34142"
+         x="485.12906"
+         height="8.5"
+         width="8.5"
+         id="rect2810"
+         style="fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(221.82406,48.935952)"
+         id="g2812">
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2814"
+           width="8.5"
+           height="8.5"
+           x="236.8717"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2816"
+           width="8.5"
+           height="8.5"
+           x="228.02594"
+           y="146.40546" />
+        <rect
+           style="opacity:1;fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2818"
+           width="8.5"
+           height="8.5"
+           x="245.75"
+           y="146.40546" />
+      </g>
+      <rect
+         y="195.34142"
+         x="476.44516"
+         height="8.5"
+         width="8.5"
+         id="rect2820"
+         style="fill:#353b9e;fill-opacity:1;stroke:#1e1e64;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

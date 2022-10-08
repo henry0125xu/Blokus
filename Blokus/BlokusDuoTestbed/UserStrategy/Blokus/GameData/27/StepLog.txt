@@ -1,0 +1,16 @@
+1 = R ^ pattern15() ^ 5-5
+2 = B ^ pattern11(R,R) ^ 9-8
+3 = R ^ pattern14(R,R,R) ^ 8-4
+4 = B ^ pattern16() ^ 6-8
+5 = R ^ pattern12(R,R) ^ 9-6
+6 = B ^ pattern21(R) ^ 1-9
+7 = R ^ pattern17() ^ 12-4
+8 = B ^ pattern18() ^ 5-11
+9 = R ^ pattern16(H) ^ 11-1
+10 = B ^ Pass
+11 = R ^ pattern02(R) ^ 4-8
+12 = R ^ pattern03(R,R,R) ^ 4-3
+13 = R ^ pattern08(H) ^ 11-9
+14 = R ^ pattern05() ^ 7-2
+15 = R ^ pattern01() ^ 4-6
+16 = R ^ pattern20() ^ 9-11
