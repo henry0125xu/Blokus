@@ -1,4 +1,4 @@
-########### Instruction ###########
+########### Introduction ###########
 This is a simple desktop Blokus game.  
 Run Blokus.exe to get started.
 
